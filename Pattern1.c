@@ -2,7 +2,7 @@
 void main()
 {
 	int i,j,n;
-	printf("Enter the value of how many lines you want to print? : ");
+	printf("Enter the value of how many lines you want to print?: ");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)//Row changer.
 	{
